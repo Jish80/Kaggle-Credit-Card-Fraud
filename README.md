@@ -1,4 +1,7 @@
 Analysis based on the Kaggle Dataset from https://www.kaggle.com/dalpozz/creditcardfraud
+the code was written in a python notebook on python 3.6 using libraries: Seaborn, matplotlib, pandas, numpy, sci-kit learn
+
+Data in the notebook needs to be changed to your local location
 
 Features information had already been transformed by the data owner through PCA
 
